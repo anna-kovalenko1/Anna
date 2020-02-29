@@ -1,4 +1,4 @@
-print "Hello,Serhii!!!"
+print "Hello,Serhii"
 print "For exit write e"
 while 1:
     print "Write two numbers"
