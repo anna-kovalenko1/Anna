@@ -1,4 +1,4 @@
-print "Hello,Serhii!"
+print "Hello,Serhii"
 print "Hello everybody"
 print "For exit write e"
 while 1:
